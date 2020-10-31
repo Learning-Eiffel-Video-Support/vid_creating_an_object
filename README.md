@@ -1,4 +1,4 @@
-# vid_creating_an_object
+# Learning Eiffel - Creating an Object
 Creating an Object support code
 
 This is roughly the code (with imrpovements) that was used in the making of the Learning Eiffel video found at: https://youtu.be/dN2HHDef4Ig
